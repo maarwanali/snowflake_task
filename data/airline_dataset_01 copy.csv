@@ -1,0 +1,33 @@
+,Passenger ID,First Name,Last Name,Gender,Age,Nationality,Airport Name,Airport Country Code,Country Name,Airport Continent,Continents,Departure Date,Arrival Airport,Pilot Name,Flight Status,Ticket Type,Passenger Status
+86128,syV2i5,Shelley,Hawksworth,Male,19,Poland,San Luis County Regional Airport,US,United States,NAM,North America,1/25/2022,SBP,Shelley Hawksworth,Cancelled,Business,On Time
+86129,Ay4Jym,Wald,Dyet,Male,66,Russia,Kuopio Airport,FI,Finland,EU,Europe,11/24/2022,KUO,Wald Dyet,Delayed,Business,On Time
+86130,cThP1w,Luis,Beddard,Male,6,United States,Bedwell Harbour Seaplane Base,CA,Canada,NAM,North America,3/30/2022,YBW,Luis Beddard,Delayed,Business,On Time
+86131,kFTX3Z,Montgomery,Covendon,Male,5,China,Beijing Capital International Airport,CN,China,AS,Asia,5/2/2022,PEK,Montgomery Covendon,Cancelled,Business,On Time
+86132,fEDQL7,Leonelle,Bonanno,Female,12,Peru,Presidente Venceslau Airport,BR,Brazil,SAM,South America,3/25/2022,0,Leonelle Bonanno,Delayed,Business,On Time
+86133,ak9YET,Moses,Carluccio,Male,59,Pakistan,Yeerqiang Airport,CN,China,AS,Asia,11/1/2022,QSZ,Moses Carluccio,Cancelled,Business,On Time
+86134,QEuetM,Ervin,Sprowell,Male,64,China,Aeroclube de Bento Gonçalves Airport,BR,Brazil,SAM,South America,11/27/2022,BGV,Ervin Sprowell,On Time,Business,On Time
+86135,jp5zmX,Alfy,Bilborough,Male,17,China,Paulatuk (Nora Aliqatchialuk Ruben) Airport,CA,Canada,NAM,North America,8/28/2022,YPC,Alfy Bilborough,Delayed,Business,On Time
+86136,DQD7qd,Morgana,O'Doherty,Female,8,China,Mc Carthy Airport,US,United States,NAM,North America,2/26/2022,MXY,Morgana O'Doherty,On Time,Business,On Time
+86137,5W0ywo,Mirilla,Godspede,Female,7,Indonesia,Francisco De Orellana Airport,EC,Ecuador,SAM,South America,5/22/2022,OCC,Mirilla Godspede,Delayed,Business,On Time
+86138,U0bNjA,Trumann,Allawy,Male,65,Serbia,Lungi International Airport,SL,Sierra Leone,AF,Africa,8/22/2022,FNA,Trumann Allawy,On Time,Business,On Time
+86139,lEEJvJ,Dillie,Sundin,Male,5,Czech Republic,Mobile Downtown Airport,US,United States,NAM,North America,7/17/2022,BFM,Dillie Sundin,Cancelled,Business,On Time
+86140,5wShlP,Brit,Planque,Female,61,Poland,Mihail Kogălniceanu International Airport,RO,Romania,EU,Europe,8/3/2022,CND,Brit Planque,Delayed,Business,On Time
+86141,6KWjAp,Dyane,Yerbury,Female,32,Croatia,White River Seaplane Base,CA,Canada,NAM,North America,6/17/2022,YWR,Dyane Yerbury,Delayed,Business,On Time
+86142,GZjGkY,Lizzy,Lloyds,Female,11,United States,Kindersley Airport,CA,Canada,NAM,North America,11/30/2022,YKY,Lizzy Lloyds,On Time,Business,On Time
+86143,hMJClx,Phillip,Kun,Male,13,China,Inkerman Airport,AU,Australia,OC,Oceania,1/27/2022,IKP,Phillip Kun,Delayed,Business,On Time
+86144,LpXM0H,Currie,Orrow,Male,13,Greece,Orenburg Central Airport,RU,Russian Federation,EU,Europe,4/2/2022,REN,Currie Orrow,On Time,Business,On Time
+86145,3KQu1o,Karoly,Gruby,Female,36,Sweden,Hanksville Airport,US,United States,NAM,North America,1/2/2022,HVE,Karoly Gruby,Delayed,Business,On Time
+86146,qZagmT,Gwenneth,Leeman,Female,82,Bulgaria,Whitehouse Naval Outlying Field,US,United States,NAM,North America,7/31/2022,NEN,Gwenneth Leeman,On Time,Business,On Time
+86147,8DS1G6,Casey,Speariett,Female,44,Tunisia,Cross City Airport,US,United States,NAM,North America,2/11/2022,CTY,Casey Speariett,Delayed,Business,On Time
+86148,pz2nq1,Shelba,Pantling,Female,21,Indonesia,Robert F Swinnie Airport,US,United States,NAM,North America,7/27/2022,ADR,Shelba Pantling,Cancelled,Business,On Time
+86149,DrNM0S,Steffi,Cutbush,Female,12,Tonga,Rizhao Shanzihe Airport,CN,China,AS,Asia,11/30/2022,RIZ,Steffi Cutbush,Cancelled,Business,On Time
+86150,kXnNhC,Christy,Jozsef,Female,19,Panama,Nueva Hesperides International Airport,UY,Uruguay,SAM,South America,6/8/2022,STY,Christy Jozsef,Delayed,Business,On Time
+86151,mB0xwp,Dulcia,Sloan,Female,66,Indonesia,Simón Bolívar International Airport,VE,"Venezuela, Bolivarian Republic of",SAM,South America,12/12/2022,CCS,Dulcia Sloan,Cancelled,Business,On Time
+86152,pQuchx,Paten,Purchon,Male,42,Colombia,Båtsfjord Airport,NO,Norway,EU,Europe,1/16/2022,BJF,Paten Purchon,On Time,Business,On Time
+86153,80TT9Y,Coretta,Martyn,Female,29,Philippines,Metz-Nancy-Lorraine Airport,FR,France,EU,Europe,1/10/2022,ETZ,Coretta Martyn,On Time,Business,On Time
+86154,DwL8vP,Burty,Weyland,Male,85,Paraguay,Ilam Airport,IR,"Iran, Islamic Republic of",AS,Asia,8/28/2022,IIL,Burty Weyland,Delayed,Business,On Time
+86155,bJHNNy,Ninetta,Plewright,Female,55,Brazil,Selawik Airport,US,United States,NAM,North America,8/2/2022,WLK,Ninetta Plewright,Delayed,Business,On Time
+86156,We4duM,Annemarie,Woakes,Female,34,Ukraine,Am Timan Airport,TD,Chad,AF,Africa,12/30/2022,AMC,Annemarie Woakes,Delayed,Business,On Time
+86157,RtCTuA,Ewell,Vergine,Male,33,Egypt,Golfo de Morrosquillo Airport,CO,Colombia,SAM,South America,10/26/2022,TLU,Ewell Vergine,Cancelled,Business,On Time
+86158,57lMwU,Horace,Gegay,Male,89,Philippines,Rivière-du-Loup Airport,CA,Canada,NAM,North America,11/13/2022,YRI,Horace Gegay,Cancelled,Business,On Time
+86159,ruLrKh,Tessi,Goroni,Female,21,France,Minaçu Airport,BR,Brazil,SAM,South America,5/5/2022,MQH,Tessi Goroni,On Time,Business,On Time

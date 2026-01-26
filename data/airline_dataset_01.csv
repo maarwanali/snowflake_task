@@ -1,0 +1,57 @@
+,Passenger ID,First Name,Last Name,Gender,Age,Nationality,Airport Name,Airport Country Code,Country Name,Airport Continent,Continents,Departure Date,Arrival Airport,Pilot Name,Flight Status,Ticket Type,Passenger Status
+98563,8QtqVd,Wells,Keedy,Male,12,Honduras,Metropolitan Oakland International Airport,US,United States,NAM,North America,2/22/2022,OAK,Wells Keedy,Cancelled,Business,On Time
+98564,CfZLjc,Haywood,Petett,Male,47,Iran,Ewo Airport,CG,Congo,AF,Africa,11/28/2022,EWO,Haywood Petett,Cancelled,Business,On Time
+98565,tCurkq,Esdras,Ferandez,Male,50,Pakistan,Wiesbaden Army Airfield,DE,Germany,EU,Europe,3/16/2022,WIE,Esdras Ferandez,Delayed,Business,On Time
+98566,HL73ot,Hatti,Fife,Female,12,Indonesia,Wilkes County Airport,US,United States,NAM,North America,3/11/2022,IKB,Hatti Fife,On Time,Business,On Time
+98567,iIx4WT,Cherri,Kuhndel,Female,5,Finland,Meekatharra Airport,AU,Australia,OC,Oceania,12/9/2022,MKR,Cherri Kuhndel,Delayed,Business,On Time
+98568,Qbm2em,Terrell,Pettyfar,Male,13,China,Along Airport,IN,India,AS,Asia,12/6/2022,IXV,Terrell Pettyfar,On Time,Business,On Time
+98569,VWE0aJ,Murdock,O'Crowley,Male,13,China,Marcelo Pires Halzhausen Airport,BR,Brazil,SAM,South America,5/6/2022,AIF,Murdock O'Crowley,On Time,Business,On Time
+98570,n6EKqY,Graig,Dorsey,Male,52,Portugal,Tampere-Pirkkala Airport,FI,Finland,EU,Europe,6/20/2022,TMP,Graig Dorsey,On Time,Business,On Time
+98571,jzo6UX,Kirsti,Blamphin,Female,39,Nigeria,Afton Municipal Airport,US,United States,NAM,North America,3/28/2022,AFO,Kirsti Blamphin,Delayed,Business,On Time
+98572,DYzE5e,Nikita,Crawshaw,Male,61,Germany,Kirkuk Air Base,IQ,Iraq,AS,Asia,11/28/2022,KIK,Nikita Crawshaw,On Time,Business,On Time
+98573,ieMdT7,Batsheva,Fost,Female,69,China,Dibrugarh Airport,IN,India,AS,Asia,8/12/2022,DIB,Batsheva Fost,Cancelled,Business,On Time
+98574,cRLQhh,Octavia,Brambill,Female,34,Japan,Leeuwarden Air Base,NL,Netherlands,EU,Europe,3/22/2022,LWR,Octavia Brambill,Delayed,Business,On Time
+98575,vyuC1Z,Tore,Milch,Male,65,Indonesia,La Tuque Airport,CA,Canada,NAM,North America,8/1/2022,YLQ,Tore Milch,Delayed,Business,On Time
+98576,l6cF1l,Clevey,Lowdyane,Male,72,Indonesia,RAF Scampton,GB,United Kingdom,EU,Europe,4/4/2022,SQZ,Clevey Lowdyane,On Time,Business,On Time
+98577,KZi9Ha,Lorinda,Osselton,Female,74,Argentina,Bafoussam Airport,CM,Cameroon,AF,Africa,7/7/2022,BFX,Lorinda Osselton,On Time,Business,On Time
+98578,Qy6K9m,Godfree,Satyford,Male,82,Ireland,Lhasa Gonggar Airport,CN,China,AS,Asia,9/10/2022,LXA,Godfree Satyford,Delayed,Business,On Time
+98579,1WgXXQ,Annabela,Billingsly,Female,60,Russia,Felker Army Air Field,US,United States,NAM,North America,3/5/2022,FAF,Annabela Billingsly,On Time,Business,On Time
+98580,fRTI2v,Jase,Saban,Male,82,Norway,Kurwina Airport,PG,Papua New Guinea,OC,Oceania,1/29/2022,KWV,Jase Saban,Cancelled,Business,On Time
+98581,6UBr2v,Rodney,Donkersley,Male,30,Indonesia,Astrakhan Airport,RU,Russian Federation,EU,Europe,2/9/2022,ASF,Rodney Donkersley,On Time,Business,On Time
+98582,qF2Gdu,Iseabal,Knocker,Female,84,Colombia,Presidente Venceslau Airport,BR,Brazil,SAM,South America,5/11/2022,0,Iseabal Knocker,Delayed,Business,On Time
+98583,GxzxtR,Ludovico,Moye,Male,33,Cuba,Lubbock Preston Smith International Airport,US,United States,NAM,North America,1/7/2022,LBB,Ludovico Moye,On Time,Business,On Time
+98584,mQnhiI,Allen,Hlavecek,Male,56,Malaysia,Caicara del Orinoco Airport,VE,"Venezuela, Bolivarian Republic of",SAM,South America,4/29/2022,CXA,Allen Hlavecek,Cancelled,Business,On Time
+98585,jPTHAi,Adler,Ferrero,Male,39,Philippines,Patrocínio Airport,BR,Brazil,SAM,South America,4/21/2022,0,Adler Ferrero,On Time,Business,On Time
+98586,yUl7W4,Ky,Hebbron,Male,39,Russia,Laguna Airport,BR,Brazil,SAM,South America,5/29/2022,0,Ky Hebbron,Delayed,Business,On Time
+98587,N7sSvp,Brenn,Chasson,Female,80,China,Zhytomyr Airport,UA,Ukraine,EU,Europe,3/31/2022,ZTR,Brenn Chasson,Cancelled,Business,On Time
+98588,Frm906,Lindsey,Klaassens,Male,33,Portugal,San Fernando Airport,AR,Argentina,SAM,South America,3/18/2022,FDO,Lindsey Klaassens,Delayed,Business,On Time
+98589,q732eu,Tildy,Revie,Female,29,Brazil,Austral Downs Airport,AU,Australia,OC,Oceania,5/29/2022,AWP,Tildy Revie,Cancelled,Business,On Time
+98590,ok8fwA,Kath,Palfreman,Female,31,Japan,Elizabeth Field,US,United States,NAM,North America,6/28/2022,FID,Kath Palfreman,On Time,Business,On Time
+98591,Ezow96,Esra,Pladen,Male,62,Czech Republic,Fort Nelson Airport,CA,Canada,NAM,North America,5/23/2022,YYE,Esra Pladen,Cancelled,Business,On Time
+98592,65Pxuh,Benjie,Garrioch,Male,2,Peru,Port Heiden Airport,US,United States,NAM,North America,9/14/2022,PTH,Benjie Garrioch,On Time,Business,On Time
+98593,wPwzuE,Caria,Dominick,Female,77,Sweden,O R Tambo International,ZA,South Africa,AF,Africa,7/29/2022,JNB,Caria Dominick,Cancelled,Business,On Time
+98594,cxDx66,Ban,Rottger,Male,5,Spain,Gao Airport,ML,Mali,AF,Africa,11/18/2022,GAQ,Ban Rottger,Cancelled,Business,On Time
+98595,nJEbnG,Morse,Boss,Male,25,Russia,Sainte Marie Airport,MG,Madagascar,AF,Africa,3/28/2022,SMS,Morse Boss,Delayed,Business,On Time
+98596,H3HzS1,Giselle,Peyton,Female,7,Egypt,Iqaluit Airport,CA,Canada,NAM,North America,5/4/2022,YFB,Giselle Peyton,On Time,Business,On Time
+98597,NweU5g,Coriss,Smurfitt,Female,38,Peru,Fort Chipewyan Airport,CA,Canada,NAM,North America,1/10/2022,YPY,Coriss Smurfitt,On Time,Business,On Time
+98598,Faxr55,Salvidor,OIlier,Male,42,Mongolia,Silistra Polkovnik Lambrinovo Air Base,BG,Bulgaria,EU,Europe,8/24/2022,SLS,Salvidor OIlier,Cancelled,Business,On Time
+98599,TytwoB,Bert,Symonds,Male,65,Vietnam,Lianyungang Airport,CN,China,AS,Asia,3/11/2022,LYG,Bert Symonds,Delayed,Business,On Time
+98600,7CLp2b,Alister,Sartin,Male,47,Uganda,Eliptamin Airport,PG,Papua New Guinea,OC,Oceania,6/21/2022,EPT,Alister Sartin,Delayed,Business,On Time
+98601,vnopZ2,Leisha,Kiley,Female,78,China,Melilla Airport,ES,Spain,EU,Europe,2/16/2022,MLN,Leisha Kiley,Delayed,Business,On Time
+98602,tT2ceX,Tamqrah,Cade,Female,26,Indonesia,Kharkiv International Airport,UA,Ukraine,EU,Europe,8/4/2022,HRK,Tamqrah Cade,On Time,Business,On Time
+98603,gluuTc,Ephraim,Yantsurev,Male,39,Haiti,Senipah Heliport,ID,Indonesia,AS,Asia,10/8/2022,SZH,Ephraim Yantsurev,On Time,Business,On Time
+98604,yqECGP,Freddie,Landrean,Female,47,Brazil,St Cloud Regional Airport,US,United States,NAM,North America,2/8/2022,STC,Freddie Landrean,On Time,Business,On Time
+98605,7t9cZR,Morganne,Ockenden,Female,7,China,Newport Municipal Airport,US,United States,NAM,North America,9/7/2022,ONP,Morganne Ockenden,On Time,Business,On Time
+98606,yVL4O3,Jessa,Bauldrey,Female,59,Philippines,Foula Airfield,GB,United Kingdom,EU,Europe,8/31/2022,FOA,Jessa Bauldrey,Cancelled,Business,On Time
+98607,rqUg8x,Rosalie,Waldock,Female,6,Thailand,Trombetas Airport,BR,Brazil,SAM,South America,12/8/2022,TMT,Rosalie Waldock,On Time,Business,On Time
+98608,fLgOmO,Clary,Tribbeck,Female,24,Chile,Luis Munoz Marin International Airport,PR,Puerto Rico,NAM,North America,3/23/2022,SJU,Clary Tribbeck,Cancelled,Business,On Time
+98609,fzGKSb,Olimpia,Arstall,Female,22,China,Wuzhou Changzhoudao Airport,CN,China,AS,Asia,4/23/2022,WUZ,Olimpia Arstall,On Time,Business,On Time
+98610,Wahnk2,Che,Pressland,Male,83,France,Warangal Airport,IN,India,AS,Asia,8/5/2022,WGC,Che Pressland,Cancelled,Business,On Time
+98611,0mBUjN,Hadria,Vacher,Female,41,Canada,Ipil Airport,PH,Philippines,AS,Asia,6/6/2022,IPE,Hadria Vacher,On Time,Business,On Time
+98612,Hm8PVQ,Ody,Tineman,Male,82,Indonesia,Five Mile Airport,US,United States,NAM,North America,3/17/2022,FMC,Ody Tineman,Delayed,Business,On Time
+98613,XqX0PI,Oneida,Ossipenko,Female,47,Serbia,Arugam Bay SPB,LK,Sri Lanka,AS,Asia,5/12/2022,AYY,Oneida Ossipenko,Delayed,Business,On Time
+98614,hnGQ62,Gareth,Mugford,Male,85,China,Hasvik Airport,NO,Norway,EU,Europe,12/11/2022,HAA,Gareth Mugford,Cancelled,Business,On Time
+98615,2omEzh,Kasey,Benedict,Female,19,Russia,Ampampamena Airport,MG,Madagascar,AF,Africa,10/30/2022,IVA,Kasey Benedict,Cancelled,Business,On Time
+98616,VUPiVG,Darrin,Lucken,Male,65,Indonesia,Albacete-Los Llanos Airport,ES,Spain,EU,Europe,9/10/2022,ABC,Darrin Lucken,On Time,Business,On Time
+98617,E47NtS,Gayle,Lievesley,Female,34,China,Gagnoa Airport,CI,Côte d'Ivoire,AF,Africa,10/26/2022,GGN,Gayle Lievesley,Cancelled,Business,On Time
+98618,8JYEcz,Wilhelmine,Touret,Female,10,Poland,Yoshkar-Ola Airport,RU,Russian Federation,EU,Europe,4/16/2022,JOK,Wilhelmine Touret,Delayed,Business,On Time
