@@ -1,0 +1,53 @@
+,Passenger ID,First Name,Last Name,Gender,Age,Nationality,Airport Name,Airport Country Code,Country Name,Airport Continent,Continents,Departure Date,Arrival Airport,Pilot Name,Flight Status,Ticket Type,Passenger Status
+77,KTegxQ,Constancy,Darke,Female,51,China,Batticaloa Airport,LK,Sri Lanka,AS,Asia,2/12/2022,BTC,Constancy Darke,Cancelled,Business,On Time
+78,hXhRFH,Cy,Servante,Male,78,China,Omar N Bradley Airport,US,United States,NAM,North America,5/19/2022,MBY,Cy Servante,Cancelled,Business,On Time
+79,RXha8e,Lennard,Giorgi,Male,43,Peru,Lihue Airport,US,United States,NAM,North America,1/31/2022,LIH,Lennard Giorgi,On Time,Business,On Time
+80,phfnHI,Cordie,Rosenberger,Female,3,Brazil,Spirit of St Louis Airport,US,United States,NAM,North America,7/17/2022,SUS,Cordie Rosenberger,On Time,Business,On Time
+81,cYDvaj,Noelyn,Penquet,Female,80,Brazil,Tahsis Seaplane Base,CA,Canada,NAM,North America,11/16/2022,ZTS,Noelyn Penquet,On Time,Business,On Time
+82,Utv847,Frank,Greenhough,Male,52,Philippines,Mururoa Atoll Airport,PF,French Polynesia,OC,Oceania,2/6/2022,UOA,Frank Greenhough,On Time,Business,On Time
+83,VxH2IW,Tan,Connold,Male,73,Sweden,Denver International Airport,US,United States,NAM,North America,5/7/2022,DEN,Tan Connold,On Time,Business,On Time
+84,odEULc,Star,Casford,Female,49,Greece,Arly Airport,BF,Burkina Faso,AF,Africa,10/29/2022,ARL,Star Casford,Cancelled,Business,On Time
+85,5fH1h6,Travers,Selwyne,Male,85,Colombia,Springfield Branson National Airport,US,United States,NAM,North America,8/9/2022,SGF,Travers Selwyne,Cancelled,Business,On Time
+86,bf9LOz,Randie,Jankin,Male,68,Mexico,Paradise Island Airport,MZ,Mozambique,AF,Africa,10/29/2022,NTC,Randie Jankin,On Time,Business,On Time
+87,OI5AwZ,Henryetta,Noice,Female,36,Chile,Merritt Airport,CA,Canada,NAM,North America,11/3/2022,YMB,Henryetta Noice,Delayed,Business,On Time
+88,lh0OoV,Fons,Schrieves,Male,14,Albania,Naval Outlying Field Imperial Beach (Ream Field),US,United States,NAM,North America,9/26/2022,NRS,Fons Schrieves,On Time,Business,On Time
+89,7K0lgK,Lissa,Thynn,Female,74,Luxembourg,In Guezzam Airport,DZ,Algeria,AF,Africa,1/20/2022,INF,Lissa Thynn,Delayed,Business,On Time
+90,8P7qZJ,Mattias,Darrell,Male,78,Honduras,Aldan Airport,RU,Russian Federation,AS,Asia,8/7/2022,ADH,Mattias Darrell,Cancelled,Business,On Time
+91,yK4MWF,Cirilo,Camoletto,Male,19,China,Bhojpur Airport,NP,Nepal,AS,Asia,12/10/2022,BHP,Cirilo Camoletto,Delayed,Business,On Time
+92,1cYnY2,Aeriela,Clarke,Female,70,Portugal,Gorna Oryahovitsa Airport,BG,Bulgaria,EU,Europe,9/25/2022,GOZ,Aeriela Clarke,On Time,Business,On Time
+93,LkZ2bb,Marjory,Franz,Female,46,Nigeria,Hattiesburg Laurel Regional Airport,US,United States,NAM,North America,7/27/2022,PIB,Marjory Franz,Cancelled,Business,On Time
+94,EhG0RS,Rodolph,Grewcock,Male,23,Kazakhstan,Nalchik Airport,RU,Russian Federation,EU,Europe,11/26/2022,NAL,Rodolph Grewcock,Delayed,Business,On Time
+95,p2BWbE,Justinn,Ishchenko,Female,54,Pakistan,Venice Municipal Airport,US,United States,NAM,North America,4/1/2022,VNC,Justinn Ishchenko,On Time,Business,On Time
+96,GkqKuy,Winne,Cowland,Female,73,France,Tanda Tula Airport,ZA,South Africa,AF,Africa,6/17/2022,TDT,Winne Cowland,Cancelled,Business,On Time
+97,nhuv0J,Gabriella,Patry,Female,65,China,Lar Airport,IR,"Iran, Islamic Republic of",AS,Asia,7/31/2022,LRR,Gabriella Patry,Delayed,Business,On Time
+98,AZ1nqj,Tann,McCroary,Male,2,Poland,Stewart International Airport,US,United States,NAM,North America,7/6/2022,SWF,Tann McCroary,Cancelled,Business,On Time
+99,vXv4QT,Ebony,Knappitt,Female,7,Russia,Genoa Cristoforo Colombo Airport,IT,Italy,EU,Europe,12/18/2022,GOA,Ebony Knappitt,On Time,Business,On Time
+100,wophuL,Piggy,Hugle,Male,39,Philippines,Buka Airport,PG,Papua New Guinea,OC,Oceania,10/29/2022,BUA,Piggy Hugle,Delayed,Business,On Time
+101,VBu4gW,Lisle,Floyd,Male,25,China,Copán Ruinas Airport,HN,Honduras,NAM,North America,7/14/2022,RUY,Lisle Floyd,On Time,Business,On Time
+102,jtdRqK,Leroi,Raeburn,Male,88,Brazil,Waycross Ware County Airport,US,United States,NAM,North America,9/17/2022,AYS,Leroi Raeburn,Cancelled,Business,On Time
+103,iM1RBR,Nicole,Gages,Female,54,South Africa,En Nahud Airport,SD,Sudan,AF,Africa,5/18/2022,NUD,Nicole Gages,Cancelled,Business,On Time
+104,CdWmHb,Mariele,Lucius,Female,33,Ukraine,Memorial Field,US,United States,NAM,North America,11/28/2022,HOT,Mariele Lucius,Cancelled,Business,On Time
+105,UOfHC1,Sherwood,Woolaston,Male,80,Portugal,Tarama Airport,JP,Japan,AS,Asia,4/13/2022,TRA,Sherwood Woolaston,On Time,Business,On Time
+106,56InnO,Ag,Gumby,Female,76,China,Akita Airport,JP,Japan,AS,Asia,6/3/2022,AXT,Ag Gumby,Delayed,Business,On Time
+107,nKTeJu,Basil,Canon,Male,18,Portugal,Hatzfeldhaven Airport,PG,Papua New Guinea,OC,Oceania,5/25/2022,HAZ,Basil Canon,Cancelled,Business,On Time
+108,jRfZM5,Care,Kearton,Male,4,Kenya,Tapini Airport,PG,Papua New Guinea,OC,Oceania,7/30/2022,TPI,Care Kearton,Cancelled,Business,On Time
+109,dkNtb8,Violetta,Francois,Female,85,Indonesia,Casa De Campo International Airport,DO,Dominican Republic,NAM,North America,4/4/2022,LRM,Violetta Francois,Delayed,Business,On Time
+110,bk2hAK,Adlai,Tilmouth,Male,49,Serbia,Owatonna Degner Regional Airport,US,United States,NAM,North America,1/4/2022,OWA,Adlai Tilmouth,On Time,Business,On Time
+111,sZQluf,Gwenore,Smaridge,Female,7,Russia,Handan Airport,CN,China,AS,Asia,3/8/2022,HDG,Gwenore Smaridge,Delayed,Business,On Time
+112,OHPtDJ,Kurt,Marling,Male,65,Indonesia,Mal Airport,PG,Papua New Guinea,OC,Oceania,10/26/2022,MMV,Kurt Marling,Delayed,Business,On Time
+113,PRT2e0,Artemus,Brewitt,Male,27,China,Fáskrúðsfjörður Airport,IS,Iceland,EU,Europe,1/13/2022,FAS,Artemus Brewitt,On Time,Business,On Time
+114,Avxiy6,Sergio,Edmonson,Male,10,Sweden,Omora Airport,PG,Papua New Guinea,OC,Oceania,8/1/2022,OSE,Sergio Edmonson,On Time,Business,On Time
+115,tAltei,Maia,Kidwell,Female,45,Philippines,Fort Mcpherson Airport,CA,Canada,NAM,North America,12/4/2022,ZFM,Maia Kidwell,Delayed,Business,On Time
+116,FExnPN,Reinaldo,Caines,Male,76,Indonesia,Newcastle Airport,GB,United Kingdom,EU,Europe,3/17/2022,NCL,Reinaldo Caines,On Time,Business,On Time
+117,94BCfr,Lincoln,Casburn,Male,6,Vietnam,Guanghan Airport,CN,China,AS,Asia,2/24/2022,GHN,Lincoln Casburn,Cancelled,Business,On Time
+118,nHu1FR,Kelsy,Danhel,Female,21,Indonesia,Pureni Airport,PG,Papua New Guinea,OC,Oceania,8/15/2022,PUI,Kelsy Danhel,Delayed,Business,On Time
+119,Reruzb,Des,Sutehall,Male,65,Indonesia,Long Island Airport,PG,Papua New Guinea,OC,Oceania,10/23/2022,LSJ,Des Sutehall,Cancelled,Business,On Time
+120,LxyKQp,Darnall,Comfort,Male,72,Russia,Xinzhou Wutaishan Airport,CN,China,AS,Asia,4/27/2022,WUT,Darnall Comfort,Cancelled,Business,On Time
+121,iFQFjC,Bernardo,Bigland,Male,79,Philippines,Bandar Lengeh Airport,IR,"Iran, Islamic Republic of",AS,Asia,12/5/2022,BDH,Bernardo Bigland,Cancelled,Business,On Time
+122,SyeYeN,Cymbre,Steeden,Female,55,Russia,Canarana Airport,BR,Brazil,SAM,South America,9/26/2022,CQA,Cymbre Steeden,Cancelled,Business,On Time
+123,60NAQu,Leandra,Demer,Female,6,Colombia,Cà Mau Airport,VN,Viet Nam,AS,Asia,1/13/2022,CAH,Leandra Demer,Cancelled,Business,On Time
+124,YeE54F,Shermy,Gatchell,Male,66,Colombia,Tezu Airport,IN,India,AS,Asia,5/23/2022,TEI,Shermy Gatchell,Delayed,Business,On Time
+125,87HYfh,Bryn,Pratley,Female,56,Maldives,Krasnoselkup Airport,RU,Russian Federation,EU,Europe,8/19/2022,KKQ,Bryn Pratley,On Time,Business,On Time
+126,D2t44Q,Eran,Summerill,Female,62,Afghanistan,Monte Dourado Airport,BR,Brazil,SAM,South America,12/28/2022,MEU,Eran Summerill,On Time,Business,On Time
+127,d8vBfU,Arlena,Ridwood,Female,65,Ireland,Awaba Airport,PG,Papua New Guinea,OC,Oceania,10/28/2022,AWB,Arlena Ridwood,Delayed,Business,On Time
+128,2X9Cw7,Rozelle,Neubigin,Female,74,China,Al Thaurah Airport,SY,Syrian Arab Republic,AS,Asia,11/15/2022,SOR,Rozelle Neubigin,Delayed,Business,On Time
